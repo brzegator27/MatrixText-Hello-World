@@ -1,0 +1,6 @@
+C:\Users\Kuba\documents\visual studio 2010\Projects\MatrixText Hello World\MatrixText Hello World\bin\Release\MatrixText Hello World.exe
+C:\Users\Kuba\documents\visual studio 2010\Projects\MatrixText Hello World\MatrixText Hello World\bin\Release\MatrixText Hello World.pdb
+C:\Users\Kuba\documents\visual studio 2010\Projects\MatrixText Hello World\MatrixText Hello World\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kuba\documents\visual studio 2010\Projects\MatrixText Hello World\MatrixText Hello World\obj\x86\Release\MatrixText Hello World.exe
+C:\Users\Kuba\documents\visual studio 2010\Projects\MatrixText Hello World\MatrixText Hello World\obj\x86\Release\MatrixText Hello World.pdb
+C:\Users\Kuba\documents\visual studio 2010\Projects\MatrixText Hello World\MatrixText Hello World\bin\Release\MatrixText Hello World.exe.config

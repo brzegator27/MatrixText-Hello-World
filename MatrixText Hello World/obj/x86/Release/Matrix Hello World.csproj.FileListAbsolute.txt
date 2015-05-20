@@ -1,0 +1,5 @@
+C:\Users\Kuba\AppData\Local\Temporary Projects\Matrix Hello World\bin\Release\Matrix Hello World.exe
+C:\Users\Kuba\AppData\Local\Temporary Projects\Matrix Hello World\bin\Release\Matrix Hello World.pdb
+C:\Users\Kuba\AppData\Local\Temporary Projects\Matrix Hello World\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kuba\AppData\Local\Temporary Projects\Matrix Hello World\obj\x86\Release\Matrix Hello World.exe
+C:\Users\Kuba\AppData\Local\Temporary Projects\Matrix Hello World\obj\x86\Release\Matrix Hello World.pdb
